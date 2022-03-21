@@ -1,0 +1,8 @@
+.label {
+    color: #FFF;
+    font-family: sans-serif;
+    padding: 50px;
+    border-radius: 50%;
+    z-index: 999;
+    background: rgba( 0, 0, 0, .6 );
+}
